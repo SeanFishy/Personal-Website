@@ -564,7 +564,13 @@ progress {
 
 .list-inline {
   padding-left: 0;
+  margin-left: -5px;
   list-style: none;
+}
+.list-inline > li {
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
 }
 
 .list-inline-item {
@@ -3140,7 +3146,7 @@ textarea.form-control-lg {
 .btn-lg, .btn-group-lg > .btn {
   --bs-btn-padding-y: 0.5rem;
   --bs-btn-padding-x: 1rem;
-  --bs-btn-font-size: 1.25rem;
+  --bs-btn-font-size: 1.5rem;
   --bs-btn-border-radius: 0.5rem;
 }
 
