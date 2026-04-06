@@ -140,3 +140,8 @@ div.footer {
 h1, h3 {
     margin-bottom: 24px;
 }
+
+div.spaced{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
