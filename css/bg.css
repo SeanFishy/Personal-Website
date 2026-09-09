@@ -216,6 +216,7 @@ div.spaced{
 #resume .timeline-content {
   margin-left: 35%;
   padding-left: 60px;
+  text-align: left;
 }
 #resume .timeline-content h4 {
   position: relative;
